@@ -87,7 +87,7 @@
                                 android:layout_below="@id/latest_date"
                                 android:layout_marginTop="2dp"
                                 android:text="Potensi"
-                                android:textColor="@color/material_dynamic_neutral100"
+                                android:textColor="@color/white"
                                 android:textSize="18sp"
                                 android:textStyle="bold" />
                         </RelativeLayout>
@@ -160,7 +160,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/title_latest_depth"
                                 android:text="km"
-                                android:textColor="@color/material_dynamic_neutral100"
+                                android:textColor="@color/white"
                                 android:textSize="16sp"
                                 android:textStyle="bold" />
 
@@ -185,7 +185,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/title_latest_coordinate"
                                 android:text="Letak"
-                                android:textColor="@color/material_dynamic_neutral100"
+                                android:textColor="@color/white"
                                 android:textSize="16sp"
                                 android:textStyle="bold" />
 
@@ -219,7 +219,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/title_latest_latitude"
                                 android:text="LS"
-                                android:textColor="@color/material_dynamic_neutral100"
+                                android:textColor="@color/white"
                                 android:textSize="16sp"
                                 android:textStyle="bold" />
                         </RelativeLayout>
@@ -243,7 +243,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@id/title_latest_longitude"
                                 android:text="BT"
-                                android:textColor="@color/material_dynamic_neutral100"
+                                android:textColor="@color/white"
                                 android:textSize="16sp"
                                 android:textStyle="bold" />
                         </RelativeLayout>
@@ -263,7 +263,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@id/title_latest_shake"
                         android:text="Nama Tempat"
-                        android:textColor="@color/material_dynamic_neutral100"
+                        android:textColor="@color/white"
                         android:textSize="16sp"
                         android:textStyle="bold" />
 
